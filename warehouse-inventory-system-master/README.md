@@ -5,7 +5,7 @@
 #Warehouse inventory system
 - - - -
 
-The application was initially created by **Mugambi Javan**, useing [php](http:php.net), [mysql](https://www.mysql.com) and [bootstrap](http://getbootstrap.com).
+The application was initially created by **Mugambi Javan and Siamon**, useing [php](http:php.net), [mysql](https://www.mysql.com) and [bootstrap](http://getbootstrap.com).
 
 
 OSWA-INV is a web based Inventory System, that will allow you to keep tracking of the quantity buying and selling price of the products existing in your warehouse or business. When creating a new products, you can set a quantity,buying and selling price.
